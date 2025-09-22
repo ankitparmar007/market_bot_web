@@ -98768,7 +98768,7 @@ $S:641}
 A.we.prototype={
 hf(){}}
 A.aP1.prototype={
-$1(a){var s,r="application/json",q=A.b6J("http://127.0.0.1:8000/",B.qD,A.ad(["Accept",r,"Content-Type",r,"app_version_name","1.0.0","app_version_code",1],t.N,t.z),B.qD),p=new A.TU(A.b([B.Gh],t.i6))
+$1(a){var s,r="application/json",q=A.b6J("https://market-bot-api.vercel.app/",B.qD,A.ad(["Accept",r,"Content-Type",r,"app_version_name","1.0.0","app_version_code",1],t.N,t.z),B.qD),p=new A.TU(A.b([B.Gh],t.i6))
 p.Y(p,B.NK)
 s=new A.ae7($,p,$,new A.ahB(51200),!1)
 s.iy$=q
