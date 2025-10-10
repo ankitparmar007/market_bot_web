@@ -1,6 +1,6 @@
 {
-    "name": "market_bot",
-    "short_name": "market_bot",
+    "name": "Market Bot",
+    "short_name": "Market Bot",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
