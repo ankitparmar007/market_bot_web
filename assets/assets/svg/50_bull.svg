@@ -1,0 +1,47 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Outer scalloped badge -->
+  <path d="
+    M256,40
+    C290,40 310,70 340,75
+    C370,80 400,60 420,85
+    C440,110 420,140 435,170
+    C450,200 480,210 480,256
+    C480,302 450,312 435,342
+    C420,372 440,402 420,427
+    C400,452 370,432 340,437
+    C310,442 290,472 256,472
+    C222,472 202,442 172,437
+    C142,432 112,452 92,427
+    C72,402 92,372 77,342
+    C62,312 32,302 32,256
+    C32,210 62,200 77,170
+    C92,140 72,110 92,85
+    C112,60 142,80 172,75
+    C202,70 222,40 256,40
+    Z
+  " fill="#16a34a"/>
+
+  <!-- Inner white circle -->
+  <circle cx="256" cy="256" r="170" fill="white"/>
+
+  <!-- Outer ring -->
+  <circle cx="256" cy="256" r="150" fill="none" stroke="#16a34a" stroke-width="10"/>
+
+  <!-- Dashed inner ring -->
+  <circle cx="256" cy="256" r="130"
+          fill="none"
+          stroke="#16a34a"
+          stroke-width="6"
+          stroke-dasharray="10 12"
+          stroke-linecap="round"/>
+
+  <!-- Text -->
+  <text x="256" y="285"
+        text-anchor="middle"
+        font-size="110"
+        font-weight="bold"
+        fill="#16a34a"
+        font-family="Arial, sans-serif">
+    50%
+  </text>
+</svg>
