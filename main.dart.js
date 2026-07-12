@@ -105761,7 +105761,7 @@ q=t.UV
 p=A.b([r],q)
 o=t.yE
 n=t.sk
-m=A.b([A.aYE(o),k.dy,A.amW(j,!1,j,i,i,o),A.l8("PrevHigh",B.dL,A.k6(j,j,A.aH(j,j,B.ay,j,2),A.aH(j,j,B.ay,j,j)),"ohlc1dAgoHigh",o),A.l8("PrevLow",B.dL,A.k6(j,j,A.aH(j,j,B.ai,j,2),A.aH(j,j,B.ai,j,j)),"ohlc1dAgoLow",o),A.l8("PrevClose",B.dL,A.k6(j,j,A.aH(j,j,B.a0,j,2),A.aH(j,j,B.a0,j,j)),"ohlc1dAgoClose",o)],n)
+m=A.b([A.aYE(o),k.dy,A.amW(0,!1,j,i,i,o),A.l8("PrevHigh",B.dL,A.k6(j,j,A.aH(j,j,B.ay,j,2),A.aH(j,j,B.ay,j,j)),"ohlc1dAgoHigh",o),A.l8("PrevLow",B.dL,A.k6(j,j,A.aH(j,j,B.ai,j,2),A.aH(j,j,B.ai,j,j)),"ohlc1dAgoLow",o),A.l8("PrevClose",B.dL,A.k6(j,j,A.aH(j,j,B.a0,j,2),A.aH(j,j,B.a0,j,j)),"ohlc1dAgoClose",o)],n)
 d=d.gRm()
 B.b.C(m,new A.Q(d,new A.aNI(),A.X(d).h("Q<1,io<dz>>")))
 m.push(A.l8(j,j,A.k6(j,j,A.aH(j,j,B.k,j,2),A.aH(j,j,B.a0,j,j)),"ema9",o))
